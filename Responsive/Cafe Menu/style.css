@@ -13,3 +13,18 @@ h2,
 p {
   text-align: center;
 }
+
+.item p {
+  display: inline-block;
+}
+
+.flavor {
+  width: 75%;
+  text-align: left;
+}
+
+.price {
+  width: 25%;
+
+  text-align: right;
+}
