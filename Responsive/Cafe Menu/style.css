@@ -1,8 +1,11 @@
+body {
+  background-image: url(images/coffee-beans.jpg);
+}
 
-
-div {
-  width: 300px;
+.menu {
+  width: 80%;
   background-color: burlywood;
+  margin: 0 auto;
 }
 
 h1,
